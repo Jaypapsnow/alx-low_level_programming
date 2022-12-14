@@ -1,15 +1,15 @@
 #include "main.h"
 
 /**
- * print_times_tables - print the time table of the input
+ * print_times_table - print the time table of the input
  * starting with 0
- * @n: number to rpint time table.
+ * @n: number to print time table.
  */
 void print_times_table(int n)
 {
 	int num, mulp, prod;
 
-	if (n >=0 && n <= 15)
+	if (n >= 0 && n <= 15)
 	{
 		for (num = 0; num <= n; num++)
 		{
