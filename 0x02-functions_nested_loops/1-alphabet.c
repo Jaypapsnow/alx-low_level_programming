@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- *main - print the alphabets
+ * print_alphabet - print the alphabets
  */
-
 void print_alphabet(void)
 {
 	char(letter);
