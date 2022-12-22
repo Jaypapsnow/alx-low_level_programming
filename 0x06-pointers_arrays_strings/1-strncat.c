@@ -2,7 +2,7 @@
 
 /**
  * _strncat - concatenates two strings
- * 
+ *
  * @src: the source of the strings
  * @dest: the destination of the string
  * @n: the length of int
